@@ -1,0 +1,191 @@
+[
+  {
+    "label": "dependsOn",
+    "kind": "property",
+    "detail": "dependsOn",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `resource | module[]`  \nWrite-only property  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_dependsOn",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "dependsOn"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "extendedLocation",
+    "kind": "property",
+    "detail": "extendedLocation",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `ExtendedLocation`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_extendedLocation",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "extendedLocation"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "identity",
+    "kind": "property",
+    "detail": "identity",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `Identity`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_identity",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "identity"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "kind",
+    "kind": "property",
+    "detail": "kind (Required)",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `'BlobStorage' | 'BlockBlobStorage' | 'FileStorage' | 'Storage' | 'StorageV2'`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_kind",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "kind"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "location",
+    "kind": "property",
+    "detail": "location (Required)",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_location",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "location"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "name",
+    "kind": "property",
+    "detail": "name (Required)",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_name",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "name"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "properties",
+    "kind": "property",
+    "detail": "properties",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `StorageAccountPropertiesCreateParameters`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_properties",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "properties"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "sku",
+    "kind": "property",
+    "detail": "sku (Required)",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `Sku`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_sku",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "sku"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "tags",
+    "kind": "property",
+    "detail": "tags",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `Dictionary<string,String>`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_tags",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "tags"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  }
+]

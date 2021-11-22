@@ -1,0 +1,44 @@
+[
+  {
+    "label": "'one'",
+    "kind": "enumMember",
+    "detail": "'one'",
+    "deprecated": false,
+    "preselect": true,
+    "sortText": "2_'one'",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "'one'"
+    }
+  },
+  {
+    "label": "'three'",
+    "kind": "enumMember",
+    "detail": "'three'",
+    "deprecated": false,
+    "preselect": true,
+    "sortText": "2_'three'",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "'three'"
+    }
+  },
+  {
+    "label": "'two'",
+    "kind": "enumMember",
+    "detail": "'two'",
+    "deprecated": false,
+    "preselect": true,
+    "sortText": "2_'two'",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "'two'"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "label": "arguments",
+    "kind": "property",
+    "detail": "arguments",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_arguments",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "arguments"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "containerSettings",
+    "kind": "property",
+    "detail": "containerSettings",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `ContainerConfiguration`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_containerSettings",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "containerSettings"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "forceUpdateTag",
+    "kind": "property",
+    "detail": "forceUpdateTag",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_forceUpdateTag",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "forceUpdateTag"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "primaryScriptUri",
+    "kind": "property",
+    "detail": "primaryScriptUri",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_primaryScriptUri",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "primaryScriptUri"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "scriptContent",
+    "kind": "property",
+    "detail": "scriptContent",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_scriptContent",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "scriptContent"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "timeout",
+    "kind": "property",
+    "detail": "timeout",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `string`  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_timeout",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "timeout"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  }
+]

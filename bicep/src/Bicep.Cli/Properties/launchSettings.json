@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Bicep.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "build D:\\DSL\\EladDemo.arm",
+      "remoteDebugEnabled": false
+    }
+  }
+}

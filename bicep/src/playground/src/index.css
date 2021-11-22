@@ -1,0 +1,13 @@
+html, body {
+  height: 100vh;
+  border: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: #1e1e1e;
+}
+
+.app-container {
+  position: 'absolute';
+  height: 100vh;
+  width: 100vw;
+}

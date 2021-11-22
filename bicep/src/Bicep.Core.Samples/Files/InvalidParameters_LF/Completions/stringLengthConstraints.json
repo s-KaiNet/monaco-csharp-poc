@@ -1,0 +1,44 @@
+[
+  {
+    "label": "maxLength",
+    "kind": "property",
+    "detail": "maxLength",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `int`  \nRequires a compile-time constant value.  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_maxLength",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "maxLength"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  },
+  {
+    "label": "minLength",
+    "kind": "property",
+    "detail": "minLength",
+    "documentation": {
+      "kind": "markdown",
+      "value": "Type: `int`  \nRequires a compile-time constant value.  \n"
+    },
+    "deprecated": false,
+    "preselect": false,
+    "sortText": "2_minLength",
+    "insertTextFormat": "plainText",
+    "insertTextMode": "asIs",
+    "textEdit": {
+      "range": {},
+      "newText": "minLength"
+    },
+    "commitCharacters": [
+      ":"
+    ]
+  }
+]
